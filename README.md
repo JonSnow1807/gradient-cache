@@ -1,6 +1,8 @@
 # Gradient Cache - GPU Memory-Efficient Training
 
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/gradient-cache/gradient-cache)
+[![PyPI version](https://badge.fury.io/py/gradient-cache.svg)](https://pypi.org/project/gradient-cache/)
+[![Downloads](https://pepy.tech/badge/gradient-cache)](https://pepy.tech/project/gradient-cache)
+[![Python Versions](https://img.shields.io/pypi/pyversions/gradient-cache.svg)](https://pypi.org/project/gradient-cache/)
 [![License](https://img.shields.io/badge/license-Apache%202.0-green.svg)](LICENSE)
 
 Gradient Cache is a production-ready PyTorch extension that reduces GPU memory usage by 90%+ during neural network training through intelligent gradient compression and CPU offloading.
@@ -29,7 +31,7 @@ pip install gradient-cache
 
 Or install from source:
 ```bash
-git clone https://github.com/your-username/gradient-cache
+git clone https://github.com/JonSnow1807/gradient-cache
 cd gradient-cache
 pip install -e .
 ```
