@@ -191,6 +191,7 @@ We welcome contributions! Please submit issues and pull requests on GitHub.
 
 - **Issues**: [GitHub Issues](https://github.com/gradient-cache/gradient-cache/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/gradient-cache/gradient-cache/discussions)
+  
 
 ---
 
